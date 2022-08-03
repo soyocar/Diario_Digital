@@ -17,7 +17,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 400px;
+  height: 600px;
   background-image: url("/img/banner2.jpg");
   background-repeat: no-repeat;
   background-position: center;
@@ -29,4 +29,8 @@
   color: white;
   padding: 50px;
   text-align: center;
+}
+.argentina {
+  background-color: rgba(53, 23, 185, 0.3);
+  padding: 30px;
 }
